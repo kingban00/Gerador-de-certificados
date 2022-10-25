@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Tailue';
+    src: url('../fonts/ntailu.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'TailueBold';
+    src: url('../fonts/ntailub.ttf') format('truetype');
+}

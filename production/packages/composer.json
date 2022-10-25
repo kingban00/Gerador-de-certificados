@@ -1,0 +1,7 @@
+{
+    "require": {
+        "pagarme/pagarme-php": "^4.1",
+        "mpdf/mpdf": "^8.0",
+        "aferrandini/phpqrcode": "1.0.1"
+    }
+}
